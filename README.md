@@ -74,3 +74,11 @@ Runs on `http://localhost:5173`.
 - `server/`: Express backend + LLM integration + JSON memory store.
 - `client/`: React + Vite frontend.
 - `server/memory_data.json`: Persisted memory file.
+
+#### Output Examples
+
+<img width="3036" height="2442" alt="screencapture-localhost-5174-2026-01-28-11_14_47" src="https://github.com/user-attachments/assets/70c9b876-5ce1-432d-80ba-a8461d0bb957" />
+<img width="3036" height="2442" alt="screencapture-localhost-5174-2026-01-28-11_15_29" src="https://github.com/user-attachments/assets/a4554017-3a5c-4e80-ac1a-6e9c84ada4b1" />
+<img width="3036" height="2442" alt="screencapture-localhost-5174-2026-01-28-11_16_02" src="https://github.com/user-attachments/assets/a29edc5e-efdf-4c11-b193-d2902e3812d7" />
+<img width="3036" height="2442" alt="screencapture-localhost-5174-2026-01-28-11_16_17" src="https://github.com/user-attachments/assets/02e55ad5-3b39-436e-aa12-56b5b7f6241b" />
+<img width="3036" height="3013" alt="screencapture-localhost-5174-2026-01-28-11_16_57" src="https://github.com/user-attachments/assets/d6b65f7f-0ab2-4d19-a482-fe9dbd1b5d21" />
