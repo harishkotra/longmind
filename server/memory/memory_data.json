@@ -1,0 +1,10 @@
+{
+  "npc": "Kael",
+  "facts": [
+    "User betrayed Kael during the raid on Emberfall",
+    "Kael no longer trusts the user",
+    "User previously asked for forgiveness",
+    "User betrayed Kael again."
+  ],
+  "emotional_state": "angry but controlled"
+}
